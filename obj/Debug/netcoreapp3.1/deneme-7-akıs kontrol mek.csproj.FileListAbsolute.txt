@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/bin/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/bin/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/bin/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/bin/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/bin/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-7-akıs kontrol mek/obj/Debug/netcoreapp3.1/deneme-7-akıs kontrol mek.genruntimeconfig.cache
